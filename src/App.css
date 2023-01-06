@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif !important;
+}
+
+.App {
+  width: 100vw;
+  height: fit-content;
+  overflow-y: hidden;
+}
